@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fali\source\repos\OpenClHelloWorld\build\CMakeFiles\22c23e8164923606e4a5f069046a4aee\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9B314045-0338-3C6D-BD2A-0589CACE9193}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
